@@ -1,3 +1,2 @@
 # TU_Retrieving_Data_Finance_Insurance
-
-This reposity contains the materials I used for presentation at Thammasat University on Friday 19 March 2021. 
+This repository contains the materials I used for the presentation at Thammasat University on 19th March 2021. Please use the main file "PasinPresentation.pdf" as a reference to study the given R codes. 
